@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 400: end of line expected.
+    properties gui.text_properties("main_menu", accent=True):
+                                                            ^
+
+Ren'Py Version: Ren'Py 7.4.1.1270
+Mon Jul 12 00:35:08 2021
